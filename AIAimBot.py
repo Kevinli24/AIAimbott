@@ -6,8 +6,8 @@ import cv2
 import os
 
 # Defining data paths
-train_data_dir = 'path/to/your/training/data'
-validation_data_dir = 'path/to/your/validation/data'
+train_data_dir = ''
+validation_data_dir = ''
 
 # Image dimensions
 img_width, img_height = 64, 64
